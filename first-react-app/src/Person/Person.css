@@ -1,0 +1,16 @@
+.Person {
+    width: 70%;
+    margin: 16px auto;
+    padding: 16px;
+    text-align: center;
+}
+input{
+    padding: 15px 10px;
+    border:.1px solid grey;
+    font-size: 0.8em;
+    width: 240px;
+}
+
+.userName{
+    color: rgb(175, 235, 147);
+}
